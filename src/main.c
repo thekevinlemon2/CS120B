@@ -1,8 +1,12 @@
 /*
  * Final Project.c
  *
+ * Description: A simple jukebox!
  * Created: 8/24/2017 12:51:43 PM
  * Author : Kevin TK Nguyen
+ *
+ * The following code is entirely my own work with the exception of the include files, timer functions,
+ * and PWM functions provided by IEEE and my course lab.
  */ 
 
 #include <avr/io.h>
